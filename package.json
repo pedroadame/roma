@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Padame <padame@nosolosoftware.es>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.nosolosoftware.es/siifacil/siifacil-app.git"
+  },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
