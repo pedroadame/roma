@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://gitlab.nosolosoftware.es/siifacil/siifacil-app/compare/v1.1.1...v2.0.0) (2021-04-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* Ahora la API responde diferente
+
+### Bug Fixes
+
+* production hotfix ([7a704f9](https://gitlab.nosolosoftware.es/siifacil/siifacil-app/commit/7a704f9a14aa307dfc1db339d6544417a508869b)), closes [#36658](https://scrumbox.nosolosoftware.es/#/go/36658)
+
 ### [1.1.1](https://gitlab.nosolosoftware.es/siifacil/siifacil-app/compare/v1.1.0...v1.1.1) (2021-04-05)
 
 
