@@ -1,6 +1,6 @@
 {
   "name": "roma",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "author": "Padame <padame@nosolosoftware.es>",
   "license": "MIT",
@@ -9,7 +9,8 @@
     "@commitlint/config-conventional": "^12.1.1",
     "commitizen": "^4.2.3",
     "cz-conventional-changelog": "3.3.0",
-    "husky": "^6.0.0"
+    "husky": "^6.0.0",
+    "standard-version": "^9.1.1"
   },
   "config": {
     "commitizen": {
@@ -17,6 +18,7 @@
     }
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "standard-version"
   }
 }
